@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
 ## Working Link
-This project can be viewed in a browser by visiting [Angular5](https://jimdimag.github.io/Angular/index.html/)
+This project can be viewed in a browser by visiting [Angular5](https://jimdimag.github.io/Angular/)
 
 ## Development server
 
